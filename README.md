@@ -14,6 +14,6 @@ Contact: QTSF@Mines.edu
 
 One key asset of the program is the Colorado Underground Research Institute (CURIE)
 
-![CURIE](CURIE.png "Cartoon for the Colorado Underground Research Institute")
+![CURIE](CURIE_image.png "Cartoon for the Colorado Underground Research Institute")
 
 CURIE is located at the Edgar Experimental Mine. It is a shielded, cryogenic facility providing a low-noise environment for advancing quantum technologies. CURIE's goals include developing ultra-sensitive sensors for fundamental physics research in rare particle detection and enabling breakthroughs in quantum sensing.
