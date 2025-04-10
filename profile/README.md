@@ -1,4 +1,4 @@
-# .github
+# Welcome to the QTSF GitHub!
 
 GitHub Organisation for the Quantum Technologies at the Sensitivity Frontier Lab at the Colorado School of Mines.  
 Group Lead: Prof Wouter Van De Pontseele   
